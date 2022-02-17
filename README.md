@@ -1,8 +1,8 @@
 # ProjectNftree
 
-NFTree is a project that allows any user to sell their NFTs depicting trees.
+NFTree is a project that allows to buy NFTs depicting trees or a localized chunk (plot of land) in the Amazon rainforest.
 The purpose of NFTree is to restore life to the Amazon rainforest.
-In addition to the commission for the list price, 5% of each transaction will be completely donated to the non-profit organization that takes care of protecting the Amazon.
+In addition to the commission for the list price, a certain amount of each transaction will be completely donated to the non-profit organization that takes care of protecting the Amazon.
 
 
 Copyright 2022 
