@@ -10,4 +10,4 @@ Developer: Barberis Emanuele
 
 
 SOLANA DOMANI NAME: https://naming.bonfida.org/#/domain/barberis
-Minted as NFT 
+Minted as NFT on opensea:  https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/41578564341921443923009476017279375194430676934609790814980032960030377508874/
